@@ -6,10 +6,10 @@ Consisted from two models, suggestion related model and BiLSTM model, that both 
 
 ## 
 
- - [BiLSTM Model]
+ - BiLSTM Model
 
  BiLSTM used to predict the next word from search bar's input so that it enhanced and speed up users experiences during using search bar tools.
- - [Suggestion Related Model]
+ - Suggestion Related Model
  
  Suggestion related model that we build using ranking system relatives to scoring cosines similarity values from input to our dataset. This model will return the most related discussion title and the link to our search bar input, also return top 10 discussion titles and the links that related to the most related discussion title and the link before.
 
